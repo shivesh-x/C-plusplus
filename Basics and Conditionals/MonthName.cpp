@@ -2,8 +2,11 @@
 
 using namespace std;
 
-void MonthName(int m)
+int main()
 {
+    int m;
+    cout<<"Enter number of the month : ";
+    cin>>m;
     if( m == 1)
         cout<<"jan";
     else if( m == 2)
@@ -28,6 +31,6 @@ void MonthName(int m)
         cout<<"nov";
     else
         cout<<"dec";
-    
+
 }
-    
+
