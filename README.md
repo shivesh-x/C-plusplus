@@ -16,7 +16,7 @@ New to github learn how to contribute:- https://kbroman.org/github_tutorial/page
 
 Fork this repository and clone on your local machine
 ```
-git clone https://github.com/Vishruth-S/CompetitiveCode.git
+git clone https://github.com/apdy10/C-plusplus.git
 ```
 
 Create a branch  
@@ -26,7 +26,7 @@ git checkout -b branch_name
 
 Make your changes
 * Add any new problem and its solution
-* Refer Contributing.md for more details
+
 
 Commit and push
 ```
