@@ -21,4 +21,5 @@ int main()
 	
 	int output = fact_n/(fact_r * fact_n_r);
 	cout<<output<<endl; 
+	getch();
 }
